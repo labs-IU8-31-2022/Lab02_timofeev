@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom", "Classroom\Classroom.csproj", "{3251AEC3-EF53-445C-B2E9-5E136D1CDBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle", "Vehicle\Vehicle.csproj", "{F02F07C6-50C8-4D82-8ECC-DAD1AC3F77B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentWorker", "DocumentWorker\DocumentWorker.csproj", "{E1AD2492-BFE0-4950-B943-ABEB0AA9B0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3251AEC3-EF53-445C-B2E9-5E136D1CDBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3251AEC3-EF53-445C-B2E9-5E136D1CDBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3251AEC3-EF53-445C-B2E9-5E136D1CDBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3251AEC3-EF53-445C-B2E9-5E136D1CDBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02F07C6-50C8-4D82-8ECC-DAD1AC3F77B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02F07C6-50C8-4D82-8ECC-DAD1AC3F77B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02F07C6-50C8-4D82-8ECC-DAD1AC3F77B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02F07C6-50C8-4D82-8ECC-DAD1AC3F77B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AD2492-BFE0-4950-B943-ABEB0AA9B0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AD2492-BFE0-4950-B943-ABEB0AA9B0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AD2492-BFE0-4950-B943-ABEB0AA9B0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AD2492-BFE0-4950-B943-ABEB0AA9B0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
